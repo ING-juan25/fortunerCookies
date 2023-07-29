@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+.model1 {
+  background-image: url("/public/images/model1.png");
+}
+.model2 {
+  background-image: url("/public/images/model2.png");
+}
+.model3 {
+  background-image: url("/public/images/model3.png");
+}
+.model4 {
+  background-image: url("/public/images/model4.png");
+}
